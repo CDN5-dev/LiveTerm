@@ -1,15 +1,15 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
+  "title": "ConnorNorris LP",
+  "name": "Connor Norris",
   "ascii": "liveterm",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "CDN5-Dev",
+    "linkedin": "connor-norris-dev"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
+  "email": "Connor.Norris.Dev@gmail.com",
+  "ps1_hostname": "The Hizzle Fo Shizzle",
+  "ps1_username": "My_Homie",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
