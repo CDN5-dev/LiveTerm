@@ -7,11 +7,15 @@
     "github": "CDN5-dev",
     "linkedin": "connor-norris-dev"
   },
+  "university": "University of Wisconsin Parkside",
+  "major": "Computer Science",
+  "graduation": "May 2023",
+  
   "email": "Connor.Norris.Dev@gmail.com",
   "ps1_hostname": "Portfolio",
   "ps1_username": "Prompt",
   "repo": "https://github.com/CDN5-dev/Portfolio",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "resume_url": "https://drive.google.com/file/d/1gQruQueS-_WMukEVj5p5Zv7jWV4eYo9T/view?usp=sharing",
   "colors": {
     "light": {
       "background": "#FBF1C9",

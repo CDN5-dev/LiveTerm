@@ -30,9 +30,29 @@ export const repo = async (args: string[]): Promise<string> => {
 
 // About
 export const about = async (args: string[]): Promise<string> => {
-  return `Hi, I am ${config.name}. 
-Welcome to my website!
-More about me:
+  return `
+Hi, my name is ${config.name}. 
+
+I'm a software engineer and a web developer.
+================================================
+Univerity: ${config.university}
+Major: ${config.major}
+Certificates: 
+  --> Unix System Administration
+  --> Cyber Security
+  --> Web Development
+
+Expected Graduation Date: ${config.graduation}
+================================================
+
+Hobbies & Interests: 
+  Sports (basketball, tennis, golf), 
+  Surfing through hackernews articles
+  Prototype Dev Boards (Arduino, Raspberry Pi, etc.)
+
+Thanks for stopping by!
+
+For more about me - try these commands:
 'sumfetch' - short summary.
 'resume' - my latest resume.
 'readme' - my github readme.`;
@@ -109,8 +129,7 @@ directories`;
 };
 
 export const cd = async (args: string[]): Promise<string> => {
-  return `unfortunately, i cannot afford more directories.
-if you want to help, you can type 'donate'.`;
+  return `unfortunately, i cannot afford more directories.`;
 };
 
 export const date = async (args: string[]): Promise<string> => {
